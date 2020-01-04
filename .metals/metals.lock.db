@@ -1,0 +1,6 @@
+#FileLock
+#Sat Jan 04 18:14:53 EST 2020
+hostName=pop-os.localdomain
+id=16f72d70bd2b9d7fe56da965a6e59351c94a2c5ca11
+method=file
+server=127.0.1.1\:36153
